@@ -241,6 +241,8 @@ main,
 #products section ul {
   margin-top: 20px;
   font-size: 26px;
+  list-style-position: inside;
+  list-style: none;
 }
 
 /* Contact styles */

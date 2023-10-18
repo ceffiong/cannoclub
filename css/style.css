@@ -274,7 +274,7 @@ main,
     flex-direction: row;
     text-align: left;
     justify-content: space-between;
-    height: 100vh;
+    min-height: 100vh;
   }
 
   .home-left {
@@ -282,7 +282,7 @@ main,
   }
 
   .about {
-    height: 100vh;
+    min-height: 100vh;
   }
 
   .about p {
